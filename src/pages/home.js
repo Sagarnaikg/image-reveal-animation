@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import designImage from "../assets/design.png";
+import designImage from "../assets/design.webp";
 import { gsap, Power2 } from "gsap";
 
 const Home = () => {
